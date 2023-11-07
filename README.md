@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/rishabhj928/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="leetcode.com/rishabhj928/" target="_blank">
+  <a href="https://leetcode.com/rishabhj928/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=codepen&label=&color=ef6c00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
 </div>
